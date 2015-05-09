@@ -2,16 +2,16 @@
 
 ![logoMIT](http://mit.or.id/web/wp-content/uploads/2012/06/cropped-LOGO-MIT-WEB1.png)
 
-**Radio MIT** MIT is the one of largest IT community in Aceh, Indonesia. This app have been development to support MIT community. Yeah, everyone can use it app for listening MIT radio channel.
+**MIT** is the one of largest IT community in Aceh, Indonesia. This app have been development to support MIT community. Yeah, everyone can use it app for listening MIT radio channel.
 
 ## Download
 
 [![Get it on Google Play](https://www.gstatic.com/android/market_images/web/play_logo_x2.png)]()
 
-## Contributing
+## Contribute
 
 Welcome to contributor, *let's make it better !!!*
-Simple way, to be contributor
+Simple way, being to contributor
 
 1. Fork it ! <code>$ git clone git@github.com:CreatorB/RadioMIT</code>
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -45,8 +45,8 @@ THE SOFTWARE.
 
 ## Contact
 
-Feel free to contact us if you have any questions about all of this app.
-site	: http://mit.or.id
-dev	: creatorbe@facebook.com	
+Feel free to contact us if you have any questions about all of this app.<br/>
+site	: http://mit.or.id<br/>
+dev	: creatorbe@facebook.com<br/>	
 
 
