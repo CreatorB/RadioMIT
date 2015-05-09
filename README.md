@@ -6,7 +6,7 @@
 
 ## Download
 
-[![Get it on Google Play](https://www.gstatic.com/android/market_images/web/play_logo_x2.png)](https://play.google.com/store/apps/details?id=id.creatorb.radioMIT){:target="_blank"}
+[![Get it on Google Play](https://www.gstatic.com/android/market_images/web/play_logo_x2.png)](https://play.google.com/store/apps/details?id=id.creatorb.radioMIT)
 
 ## Contribute
 
